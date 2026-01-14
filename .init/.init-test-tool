@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/lesson-planner-for-educators-52176/course_planner_backend"
+}
